@@ -28,7 +28,7 @@ $ ls && cd IraqV3 && ls
 
 ## Usage :
 ```
-$ python2 flb2.py
+$ python Iraqv3.py
 ```
 
 ## ***Tool key***
